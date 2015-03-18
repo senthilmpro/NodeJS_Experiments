@@ -21,12 +21,15 @@ To run this application, follow the below steps.
 3. Commands
 
 // Install graceful-fs module
+
       npm install graceful-fs
       
 // Install node-regexp module
+
       npm install node-regexp
       
 // Invoke the js file using node server
+
       node start.js
       
 

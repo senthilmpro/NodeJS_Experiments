@@ -1,0 +1,14 @@
+{
+  "name": "NodeJS",
+  "version": "0.0.1",
+  "description": "NodeJS sample",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "DP"
+  ],
+  "author": "Senthil Kumar M",
+  "license": "ISC"
+}
